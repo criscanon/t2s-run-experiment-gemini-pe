@@ -1,0 +1,8 @@
+{
+    "api_key_gemini": "your-api-key",
+    "model_gemini_10": "gemini-1.0-pro",
+    "model_gemini_15": "gemini-1.5-pro",
+    "connection_string": "sqlite:///database/sqlite-sakila.db",
+    "dataset_excel_path": "dataset/data-nlq-sql-80.xlsx",
+    "output_path": "findings/"
+}
