@@ -1,4 +1,4 @@
-# SQL Generation Experiments
+# t2s-run-experiment-gemini-pe
 
 This repository contains scripts and resources for running and analyzing SQL generation experiments with different prompts and models. The goal is to evaluate how accurately generative AI models can convert natural language questions (NLQs) into valid SQL queries and compare their performance across various metrics.
 
