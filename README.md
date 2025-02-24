@@ -11,7 +11,6 @@ This repository contains scripts and resources for running and analyzing SQL gen
   - [2. run_analysis.py](#2-run_analysispy)
   - [3. run_general_analysis.py](#3-run_general_analysispy)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -32,8 +31,8 @@ By following the steps in this repository, you can:
 ## Installation
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/criscanon/t2s-run-experiment-gemini-pe.git
+   cd t2s-run-experiment-gemini-pe
    ```
 2. **Create and activate a virtual environment (recommended)**:
    ```sh
@@ -134,21 +133,7 @@ Use these outputs to:
 
 ---
 
-## Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements, bug fixes, or additional features. Please follow these guidelines:
-1. **Fork** this repository.
-2. Create a new **branch** for your feature or bug fix.
-3. **Commit** your changes with clear messages.
-4. **Push** to your fork.
-5. Open a **pull request** in this repository, explaining your changes.
-
----
-
 ## License
 This project is released under the [MIT License](LICENSE) (or add your chosen license here). Feel free to use and adapt the code according to its terms.
 
 ---
-
-**Thank you for using this repository!**  
-If you have any questions, suggestions, or issues, please open an [issue](https://github.com/<your-username>/<your-repo>/issues) or contact the maintainers.
-```
